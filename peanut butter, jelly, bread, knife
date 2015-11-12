@@ -1,0 +1,32 @@
+peanut butter, jelly, bread, knife
+
+check for lid on PB
+	if lid, remove
+	else move on
+check for lid on jelly
+	if lid, remove
+	else move on
+check bread count
+	if 2 pieces of bread, place on plate next to eachother
+	if 1 piece cut in half
+grab knife
+	dip in pb jar
+	scoop out peanut butter
+	spread on one side of one piece of bread
+	wipe knife off on pants
+	dip in jelly jar
+	scoop out jelly
+	spread on one side of other piece of bread
+	set down on counter
+pick up slice of bread with peanut butter. 
+	place on jelly slice, with peanut butter face on top of jelly face
+	match corners
+Serve!
+
+
+
+feedback - more explanation of the why. sometimes concepts make things stick better. ie grep - "globally search a regular expression and print" 
+concepts behind forks, pulling and pushing beyond "type push upstream"
+
+pbj project at beginning could have been not the standard example.
+for code alongs - his comment out becomes invisible on the white board.
